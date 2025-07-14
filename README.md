@@ -4,7 +4,7 @@
 
 - 🤝 I’m anticipating to **learn,** **grow** n **fastrack** in here.
 
-- 💬 Yes I own an entire dozen of email domains.
+- 💬 Crazy Fact: `Yes I own & maintain half a dozen of tld's (.com, .cc, .im, .sh)`.
 
 - 📫 Email me freely ➡️ **git@rahulvb.com** or **github@rahulvb.com**
 

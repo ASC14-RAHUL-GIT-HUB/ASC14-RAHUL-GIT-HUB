@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ASC14-RAHUL-GIT-HUB&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=star" alt="ASC14-RAHUL-GIT-HUB" /> </p>
 <h1 align="center">Hi 👋, I'm Rahul V.B</h1>
-<h3 align="center">One of 18 ASE's 26 July, 2025 Batch @ Ascendion | Tech Geek.</h3>
+<h3 align="center">One of 18 ASE's 26 July, 2025 Batch @ Ascendion | Crazzyy Tech Geek.</h3>
 
 - 🤝 I’m anticipating to **learn,** **grow** n **fastrack** in here.
 

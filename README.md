@@ -4,7 +4,7 @@
 
 - 🤝 I’m anticipating to **learn,** **grow** n **fastrack** in here.
 
-- 💬 Official Website <a href="https://rahulvb.com" target="blank">**rahulvb.com**</a>
+- 💬 Yes I own an entire dozen of email domains.
 
 - 📫 Email me freely ➡️ **git@rahulvb.com** or **github@rahulvb.com**
 

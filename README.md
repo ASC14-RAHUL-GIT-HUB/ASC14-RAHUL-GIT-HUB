@@ -6,7 +6,7 @@
 
 - 💬 One Fact about me: `Yes I own & maintain half a dozen of tld's (.com, .cc, .im, .sh)`.
 
-- 📫 Email me freely ➡️ **git@rahulvb.com** or **github@rahulvb.com** .
+- 📫 Email me freely ➡️ **git@rahulvb.com** .
 
 - 🔗 Bookmark this link [protectedtext.com/workden](https://www.protectedtext.com/workden) to share codes and textual information within our team. Password is smallcase alphabet a.
 
